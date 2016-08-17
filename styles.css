@@ -1,7 +1,7 @@
 body {
-    background:black;
+    background:white;
     text-align:center;
-    color:white;
+    color:black;
     font-family: Arial;
     margin:0px;
 }
@@ -28,7 +28,7 @@ p {
 .content {
     width:640px;
     height:700px;
-    background:#262626;
+    background:white;
     text-align:left;
     margin-top:0px;
     padding-top:40px;
@@ -53,7 +53,7 @@ ul {
     margin: 0;
     padding: 0px;
     overflow: hidden;
-    background-color: #b3b300;
+    background-color: #808080;
 }
 
 li {
