@@ -17,7 +17,7 @@ h2 {
 }
 
 p {
-    font-family:"Arial";
+    font-family:monospace;
     font-size:21px;
 }
 
@@ -26,14 +26,14 @@ p {
 }
 
 .content {
-    width:640px;
+    width:800px;
     height:700px;
     background:white;
     text-align:left;
     margin-top:0px;
     padding-top:40px;
-    padding-left:180px;
-    padding-right:180px;
+    padding-left:100px;
+    padding-right:100px;
 }
 
 .startbtn {
@@ -46,6 +46,10 @@ p {
     text-align:center;
     background-color:orange;
     border-radius:20%;
+}
+
+.startbtn:hover{
+    background-color:#ff0000;
 }
 
 ul {
