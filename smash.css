@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background-color:#56A120;
+    background-image:url(http://img14.deviantart.net/e97c/i/2015/105/3/c/hyrule_warriors_link_minimalist_by_brulescorrupted-d8puege.png);
+    font-family:Verdana;
+    color:white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+table {
+    margin:auto;
+    color:white;
+
+}
+
+th, td {
+    color:white;
+    
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:30px;
+}
