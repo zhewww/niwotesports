@@ -12,7 +12,8 @@ body {
 table {
     margin:auto;
     color:white;
-
+    background-color:green;
+    border-radius: 5%;
 }
 
 th, td {
@@ -22,4 +23,5 @@ th, td {
     padding-top:20px;
     padding-bottom:20px;
     padding-right:30px;
+    padding-left:20px;
 }
